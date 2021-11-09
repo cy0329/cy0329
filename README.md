@@ -1,5 +1,7 @@
 # Hi, I'm 최열! Call me CY
-개발뉴비~스
+
+![](https://github.com/cy0329/cy0329/raw/main/assets/%EB%A6%AC%ED%8A%B8%EB%A6%AC%EB%B2%84.jpg)
+개발뉴비
 
 ## 열심히 공부중
 + 파이썬
