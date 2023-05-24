@@ -1,9 +1,9 @@
-# Hi, I'm 최열! Call me CY
+# Hi, I'm CY. FE Dev 
 
 ![](https://github.com/cy0329/cy0329/raw/main/assets/%EB%A6%AC%ED%8A%B8%EB%A6%AC%EB%B2%84.jpg)
-주니어 개발자..
+2년차 프론트엔드 개발자라구..
 
-## 공부 / 사용중
+## Studied / Skills
 + Python
 + Django
 + DB
@@ -18,13 +18,13 @@
 + Thymeleaf
 + PyQt
 
-## 앞으로 공부할 것
-+ 정보처리기사 자격증
+## Will Study
 + Java
 + Docker
 + Kubernetes
 
-## 앞으로 공부할 수도 있는 것
+## Maybe?
++ 정보처리기사 자격증
 + C언어
 + C++
 + C#
