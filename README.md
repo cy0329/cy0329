@@ -1,7 +1,7 @@
-# Hi, I'm CY. FE Dev 
+# 프론트가 재밌다.. 다른 것도 잘 하고 싶다
 
 ![](https://github.com/cy0329/cy0329/raw/main/assets/%EB%A6%AC%ED%8A%B8%EB%A6%AC%EB%B2%84.jpg)
-DevOps 교육받은 2년차 프론트엔드 개발자
+DevOps 개발중
 
 ## Studied / Skills
 + Python
@@ -13,7 +13,7 @@ DevOps 교육받은 2년차 프론트엔드 개발자
 + TypeScript
 + CSS & HTML
 + Kotlin
-+ Gradle
++ Springboot
 + JQuery
 + Thymeleaf
 + PyQt
